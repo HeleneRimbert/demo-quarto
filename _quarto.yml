@@ -11,7 +11,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: cosmos
     css: styles.css
     toc: true
 
